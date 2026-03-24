@@ -18,6 +18,9 @@ Download: https://www.kaggle.com/datasets/jangedoo/utkface-new
 * Achieved ~77% accuracy on gender classification
 * Model successfully predicts gender from unseen images
 
+## Sample Output
+Screenshot (94).png, Screenshot (95).png
+
 ## Key Learnings
 * Image preprocessing
 * CNN architecture basics
